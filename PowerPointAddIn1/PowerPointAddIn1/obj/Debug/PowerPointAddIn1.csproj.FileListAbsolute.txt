@@ -1,0 +1,13 @@
+C:\Users\ZoomRx\Desktop\VBA_Darwin\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.dll
+C:\Users\ZoomRx\Desktop\VBA_Darwin\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.pdb
+C:\Users\ZoomRx\Desktop\VBA_Darwin\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.dll.manifest
+C:\Users\ZoomRx\Desktop\VBA_Darwin\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.vsto
+C:\Users\ZoomRx\Desktop\VBA_Darwin\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\ZoomRx\Desktop\VBA_Darwin\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.csproj.AssemblyReference.cache
+C:\Users\ZoomRx\Desktop\VBA_Darwin\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.Properties.Resources.resources
+C:\Users\ZoomRx\Desktop\VBA_Darwin\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.Ribbon1.resources
+C:\Users\ZoomRx\Desktop\VBA_Darwin\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.csproj.GenerateResource.cache
+C:\Users\ZoomRx\Desktop\VBA_Darwin\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.csproj.CoreCompileInputs.cache
+C:\Users\ZoomRx\Desktop\VBA_Darwin\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.csproj.CopyComplete
+C:\Users\ZoomRx\Desktop\VBA_Darwin\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.dll
+C:\Users\ZoomRx\Desktop\VBA_Darwin\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.pdb
