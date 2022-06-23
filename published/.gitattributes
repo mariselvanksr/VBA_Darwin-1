@@ -6,3 +6,4 @@
 *.dll.manifest binary
 *.dll.deploy binary
 *  -text
+
