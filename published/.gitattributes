@@ -1,16 +1,9 @@
 *.manifest binary
-
 *.application binary
-
 *.deploy binary
-
 *.VSTO binary
-
 *.vsto binary
-
 *.dll.manifest binary
-
 *.dll.deploy binary
-
 *  -text
 
