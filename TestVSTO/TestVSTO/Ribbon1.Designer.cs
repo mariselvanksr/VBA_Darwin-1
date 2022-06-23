@@ -56,7 +56,7 @@
             // 
             // label1
             // 
-            this.label1.Label = "Version 1.0";
+            this.label1.Label = "Version 1.0.0";
             this.label1.Name = "label1";
             // 
             // Ribbon1
