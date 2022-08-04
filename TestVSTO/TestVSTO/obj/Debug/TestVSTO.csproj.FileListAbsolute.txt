@@ -11,3 +11,16 @@ C:\Users\ZoomRx\Desktop\VBA_Darwin\TestVSTO\TestVSTO\obj\Debug\TestVSTO.csproj.C
 C:\Users\ZoomRx\Desktop\VBA_Darwin\TestVSTO\TestVSTO\obj\Debug\TestVSTO.csproj.CopyComplete
 C:\Users\ZoomRx\Desktop\VBA_Darwin\TestVSTO\TestVSTO\obj\Debug\TestVSTO.dll
 C:\Users\ZoomRx\Desktop\VBA_Darwin\TestVSTO\TestVSTO\obj\Debug\TestVSTO.pdb
+C:\Users\ZoomRx\VBA_Darwin-1\TestVSTO\TestVSTO\obj\Debug\TestVSTO.csproj.AssemblyReference.cache
+C:\Users\ZoomRx\VBA_Darwin-1\TestVSTO\TestVSTO\obj\Debug\TestVSTO.Properties.Resources.resources
+C:\Users\ZoomRx\VBA_Darwin-1\TestVSTO\TestVSTO\obj\Debug\TestVSTO.Ribbon1.resources
+C:\Users\ZoomRx\VBA_Darwin-1\TestVSTO\TestVSTO\obj\Debug\TestVSTO.csproj.GenerateResource.cache
+C:\Users\ZoomRx\VBA_Darwin-1\TestVSTO\TestVSTO\obj\Debug\TestVSTO.dll
+C:\Users\ZoomRx\VBA_Darwin-1\TestVSTO\TestVSTO\obj\Debug\TestVSTO.pdb
+C:\Users\ZoomRx\VBA_Darwin-1\TestVSTO\TestVSTO\bin\Debug\TestVSTO.dll
+C:\Users\ZoomRx\VBA_Darwin-1\TestVSTO\TestVSTO\bin\Debug\TestVSTO.pdb
+C:\Users\ZoomRx\VBA_Darwin-1\TestVSTO\TestVSTO\bin\Debug\TestVSTO.dll.manifest
+C:\Users\ZoomRx\VBA_Darwin-1\TestVSTO\TestVSTO\bin\Debug\TestVSTO.vsto
+C:\Users\ZoomRx\VBA_Darwin-1\TestVSTO\TestVSTO\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\ZoomRx\VBA_Darwin-1\TestVSTO\TestVSTO\obj\Debug\TestVSTO.csproj.CoreCompileInputs.cache
+C:\Users\ZoomRx\VBA_Darwin-1\TestVSTO\TestVSTO\obj\Debug\TestVSTO.csproj.CopyComplete
