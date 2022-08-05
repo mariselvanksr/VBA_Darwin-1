@@ -33,7 +33,7 @@
     <PublishUrl>C:\Users\ZoomRx\VBA_Darwin-1\published\</PublishUrl>
     <InstallUrl>https://github.com/vigneshmanokar/VBA_Darwin/blob/main/published/</InstallUrl>
     <TargetCulture>en</TargetCulture>
-    <ApplicationVersion>1.0.0.4</ApplicationVersion>
+    <ApplicationVersion>1.0.0.5</ApplicationVersion>
     <AutoIncrementApplicationRevision>true</AutoIncrementApplicationRevision>
     <UpdateEnabled>true</UpdateEnabled>
     <UpdateInterval>0</UpdateInterval>
