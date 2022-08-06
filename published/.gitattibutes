@@ -5,3 +5,4 @@
 *.vsto binary
 *.dll.manifest binary
 *.dll.deploy binary
+*  -text
