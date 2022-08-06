@@ -2,7 +2,7 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <PublishUrlHistory>C:\Users\ZoomRx\VBA_Darwin-1\published\</PublishUrlHistory>
-    <InstallUrlHistory>https://github.com/mariselvanksr/VBA_Darwin-1/blob/main/published/|https://github.com/vigneshmanokar/VBA_Darwin/blob/main/published/</InstallUrlHistory>
+    <InstallUrlHistory>https://github.com/mariselvanksr/VBA_Darwin-1/blob/main/published/</InstallUrlHistory>
     <SupportUrlHistory />
   </PropertyGroup>
 </Project>
